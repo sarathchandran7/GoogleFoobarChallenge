@@ -4,7 +4,7 @@ This repository documents my journey through the Google Foobar challenge. Google
 
 ## My Google Foobar Status
  Level 1: 100% [==========]\
- Skipping Work\
+ I Love Lance & Janice [a link](https://github.com/sarathchandran7/GoogleFoobarChallenge/tree/main/Level1)\
  Level 2: 100% [..........]\
  Gearing Up for Destruction\
  Challenge 2b TBD\
